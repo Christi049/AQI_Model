@@ -1,5 +1,4 @@
-# 🌫️ AQI_Model 
-   AQI Forecast Dashboard
+# 🌫️ AQI Forecast Dashboard
 
 > Visualize air quality trends and get AI-powered precautionary guidance based on predicted AQI values.
 
