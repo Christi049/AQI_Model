@@ -160,6 +160,8 @@ Sends an AQI prompt to the LLM and returns health advisory text.
 
 ## 🔗 Live Demo
 
+[**Dataset →**](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)
+
 [**Prediction model →**](https://colab.research.google.com/drive/1STjMNUOPjy_yUS8MbgJh_Ut1iPpw53QB?usp=sharing)
 
 [**View Live Demo →**](https://aqipredict2.netlify.app/)
